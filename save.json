@@ -1,0 +1,26 @@
+{
+  "player_money": 3566060.0,
+  "bought_countries": 1,
+  "amount_of_countries": 194,
+  "player_farms": {
+    "0": [
+      "Tea Farm",
+      10,
+      10,
+      2400.0
+    ],
+    "2": [
+      "Salt Farm",
+      10,
+      30,
+      72000.0
+    ]
+  },
+  "player_countries": {
+    "0": [
+      "Tuvalu",
+      66000,
+      66000000
+    ]
+  }
+}

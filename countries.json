@@ -1,0 +1,1168 @@
+{
+  "countries": [
+    {
+      "country_name": "Tuvalu",
+      "cost": "66000000",
+      "earn_per_second": "66000",
+      "item_id": 0
+    },
+    {
+      "country_name": "Nauru",
+      "cost": "161000000",
+      "earn_per_second": "161000",
+      "item_id": 1
+    },
+    {
+      "country_name": "Marshall Islands",
+      "cost": "305000000",
+      "earn_per_second": "305000",
+      "item_id": 2
+    },
+    {
+      "country_name": "Palau",
+      "cost": "308000000",
+      "earn_per_second": "308000",
+      "item_id": 3
+    },
+    {
+      "country_name": "Kiribati",
+      "cost": "311000000",
+      "earn_per_second": "311000",
+      "item_id": 4
+    },
+    {
+      "country_name": "Micronesia",
+      "cost": "484000000",
+      "earn_per_second": "484000",
+      "item_id": 5
+    },
+    {
+      "country_name": "Tonga",
+      "cost": "581000000",
+      "earn_per_second": "581000",
+      "item_id": 6
+    },
+    {
+      "country_name": "Dominica",
+      "cost": "708000000",
+      "earn_per_second": "708000",
+      "item_id": 7
+    },
+    {
+      "country_name": "São Tomé and Príncipe",
+      "cost": "751000000",
+      "earn_per_second": "751000",
+      "item_id": 8
+    },
+    {
+      "country_name": "Samoa",
+      "cost": "1024000000",
+      "earn_per_second": "1024000",
+      "item_id": 9
+    },
+    {
+      "country_name": "Saint Vincent and the Grenadines",
+      "cost": "1128000000",
+      "earn_per_second": "1128000",
+      "item_id": 10
+    },
+    {
+      "country_name": "Saint Kitts and Nevis",
+      "cost": "1134000000",
+      "earn_per_second": "1134000",
+      "item_id": 11
+    },
+    {
+      "country_name": "Vanuatu",
+      "cost": "1289000000",
+      "earn_per_second": "1289000",
+      "item_id": 12
+    },
+    {
+      "country_name": "Grenada",
+      "cost": "1406000000",
+      "earn_per_second": "1406000",
+      "item_id": 13
+    },
+    {
+      "country_name": "Comoros",
+      "cost": "1422000000",
+      "earn_per_second": "1422000",
+      "item_id": 14
+    },
+    {
+      "country_name": "Solomon Islands",
+      "cost": "1707000000",
+      "earn_per_second": "1707000",
+      "item_id": 15
+    },
+    {
+      "country_name": "East Timor",
+      "cost": "1992000000",
+      "earn_per_second": "1992000",
+      "item_id": 16
+    },
+    {
+      "country_name": "San Marino",
+      "cost": "2033000000",
+      "earn_per_second": "2033000",
+      "item_id": 17
+    },
+    {
+      "country_name": "Antigua and Barbuda",
+      "cost": "2127000000",
+      "earn_per_second": "2127000",
+      "item_id": 18
+    },
+    {
+      "country_name": "Guinea-Bissau",
+      "cost": "2151000000",
+      "earn_per_second": "2151000",
+      "item_id": 19
+    },
+    {
+      "country_name": "Seychelles",
+      "cost": "2203000000",
+      "earn_per_second": "2203000",
+      "item_id": 20
+    },
+    {
+      "country_name": "Lesotho",
+      "cost": "2395000000",
+      "earn_per_second": "2395000",
+      "item_id": 21
+    },
+    {
+      "country_name": "Saint Lucia",
+      "cost": "2582000000",
+      "earn_per_second": "2582000",
+      "item_id": 22
+    },
+    {
+      "country_name": "Gambia",
+      "cost": "2694000000",
+      "earn_per_second": "2694000",
+      "item_id": 23
+    },
+    {
+      "country_name": "Cape Verde",
+      "cost": "2718000000",
+      "earn_per_second": "2718000",
+      "item_id": 24
+    },
+    {
+      "country_name": "Central African Republic",
+      "cost": "2810000000",
+      "earn_per_second": "2810000",
+      "item_id": 25
+    },
+    {
+      "country_name": "Burundi",
+      "cost": "3075000000",
+      "earn_per_second": "3075000",
+      "item_id": 26
+    },
+    {
+      "country_name": "Bhutan",
+      "cost": "3110000000",
+      "earn_per_second": "3110000",
+      "item_id": 27
+    },
+    {
+      "country_name": "Belize",
+      "cost": "3296000000",
+      "earn_per_second": "3296000",
+      "item_id": 28
+    },
+    {
+      "country_name": "Andorra",
+      "cost": "3897000000",
+      "earn_per_second": "3897000",
+      "item_id": 29
+    },
+    {
+      "country_name": "Aruba",
+      "cost": "4069000000",
+      "earn_per_second": "4069000",
+      "item_id": 30
+    },
+    {
+      "country_name": "Suriname",
+      "cost": "4337000000",
+      "earn_per_second": "4337000",
+      "item_id": 31
+    },
+    {
+      "country_name": "Djibouti",
+      "cost": "4364000000",
+      "earn_per_second": "4364000",
+      "item_id": 32
+    },
+    {
+      "country_name": "Sierra Leone",
+      "cost": "4558000000",
+      "earn_per_second": "4558000",
+      "item_id": 33
+    },
+    {
+      "country_name": "Liberia",
+      "cost": "4754000000",
+      "earn_per_second": "4754000",
+      "item_id": 34
+    },
+    {
+      "country_name": "Eswatini",
+      "cost": "5085000000",
+      "earn_per_second": "5085000",
+      "item_id": 35
+    },
+    {
+      "country_name": "Fiji",
+      "cost": "5801000000",
+      "earn_per_second": "5801000",
+      "item_id": 36
+    },
+    {
+      "country_name": "South Sudan",
+      "cost": "6517000000",
+      "earn_per_second": "6517000",
+      "item_id": 37
+    },
+    {
+      "country_name": "Barbados",
+      "cost": "6863000000",
+      "earn_per_second": "6863000",
+      "item_id": 38
+    },
+    {
+      "country_name": "Maldives",
+      "cost": "7199000000",
+      "earn_per_second": "7199000",
+      "item_id": 39
+    },
+    {
+      "country_name": "Montenegro",
+      "cost": "8010000000",
+      "earn_per_second": "8010000",
+      "item_id": 40
+    },
+    {
+      "country_name": "Togo",
+      "cost": "9832000000",
+      "earn_per_second": "9832000",
+      "item_id": 41
+    },
+    {
+      "country_name": "Mauritania",
+      "cost": "10628000000",
+      "earn_per_second": "10628000",
+      "item_id": 42
+    },
+    {
+      "country_name": "Equatorial Guinea",
+      "cost": "10708000000",
+      "earn_per_second": "10708000",
+      "item_id": 43
+    },
+    {
+      "country_name": "Malawi",
+      "cost": "11241000000",
+      "earn_per_second": "11241000",
+      "item_id": 44
+    },
+    {
+      "country_name": "Kosovo",
+      "cost": "11318000000",
+      "earn_per_second": "11318000",
+      "item_id": 45
+    },
+    {
+      "country_name": "Namibia",
+      "cost": "12765000000",
+      "earn_per_second": "12765000",
+      "item_id": 46
+    },
+    {
+      "country_name": "Somalia",
+      "cost": "12804000000",
+      "earn_per_second": "12804000",
+      "item_id": 47
+    },
+    {
+      "country_name": "Tajikistan",
+      "cost": "13000000000",
+      "earn_per_second": "13000000",
+      "item_id": 48
+    },
+    {
+      "country_name": "Rwanda",
+      "cost": "13701000000",
+      "earn_per_second": "13701000",
+      "item_id": 49
+    },
+    {
+      "country_name": "Bahamas",
+      "cost": "14390000000",
+      "earn_per_second": "14390000",
+      "item_id": 50
+    },
+    {
+      "country_name": "Afghanistan",
+      "cost": "14467000000",
+      "earn_per_second": "14467000",
+      "item_id": 51
+    },
+    {
+      "country_name": "Laos",
+      "cost": "15190000000",
+      "earn_per_second": "15190000",
+      "item_id": 52
+    },
+    {
+      "country_name": "Congo",
+      "cost": "15501000000",
+      "earn_per_second": "15501000",
+      "item_id": 53
+    },
+    {
+      "country_name": "Kyrgyzstan",
+      "cost": "15770000000",
+      "earn_per_second": "15770000",
+      "item_id": 54
+    },
+    {
+      "country_name": "North Macedonia",
+      "cost": "15873000000",
+      "earn_per_second": "15873000",
+      "item_id": 55
+    },
+    {
+      "country_name": "Brunei",
+      "cost": "15988000000",
+      "earn_per_second": "15988000",
+      "item_id": 56
+    },
+    {
+      "country_name": "Mauritius",
+      "cost": "16359000000",
+      "earn_per_second": "16359000",
+      "item_id": 57
+    },
+    {
+      "country_name": "Madagascar",
+      "cost": "16465000000",
+      "earn_per_second": "16465000",
+      "item_id": 58
+    },
+    {
+      "country_name": "Yemen",
+      "cost": "16940000000",
+      "earn_per_second": "16940000",
+      "item_id": 59
+    },
+    {
+      "country_name": "Lebanon",
+      "cost": "21780000000",
+      "earn_per_second": "21780000",
+      "item_id": 60
+    },
+    {
+      "country_name": "Moldova",
+      "cost": "18356000000",
+      "earn_per_second": "18356000",
+      "item_id": 61
+    },
+    {
+      "country_name": "Palestine",
+      "cost": "18602000000",
+      "earn_per_second": "18602000",
+      "item_id": 62
+    },
+    {
+      "country_name": "Chad",
+      "cost": "18697000000",
+      "earn_per_second": "18697000",
+      "item_id": 63
+    },
+    {
+      "country_name": "Niger",
+      "cost": "18816000000",
+      "earn_per_second": "18816000",
+      "item_id": 64
+    },
+    {
+      "country_name": "Nicaragua",
+      "cost": "18829000000",
+      "earn_per_second": "18829000",
+      "item_id": 65
+    },
+    {
+      "country_name": "Jamaica",
+      "cost": "20098000000",
+      "earn_per_second": "20098000",
+      "item_id": 66
+    },
+    {
+      "country_name": "Gabon",
+      "cost": "21013000000",
+      "earn_per_second": "21013000",
+      "item_id": 67
+    },
+    {
+      "country_name": "Guyana",
+      "cost": "21178000000",
+      "earn_per_second": "21178000",
+      "item_id": 68
+    },
+    {
+      "country_name": "Benin",
+      "cost": "21371000000",
+      "earn_per_second": "21371000",
+      "item_id": 69
+    },
+    {
+      "country_name": "Botswana",
+      "cost": "21418000000",
+      "earn_per_second": "21418000",
+      "item_id": 70
+    },
+    {
+      "country_name": "Mali",
+      "cost": "21662000000",
+      "earn_per_second": "21662000",
+      "item_id": 71
+    },
+    {
+      "country_name": "Burkina Faso",
+      "cost": "21902000000",
+      "earn_per_second": "21902000",
+      "item_id": 72
+    },
+    {
+      "country_name": "Mongolia",
+      "cost": "21943000000",
+      "earn_per_second": "21943000",
+      "item_id": 73
+    },
+    {
+      "country_name": "Malta",
+      "cost": "22737000000",
+      "earn_per_second": "22737000",
+      "item_id": 74
+    },
+    {
+      "country_name": "Mozambique",
+      "cost": "22975000000",
+      "earn_per_second": "22975000",
+      "item_id": 75
+    },
+    {
+      "country_name": "Haiti",
+      "cost": "24046000000",
+      "earn_per_second": "24046000",
+      "item_id": 76
+    },
+    {
+      "country_name": "Armenia",
+      "cost": "25408000000",
+      "earn_per_second": "25408000",
+      "item_id": 77
+    },
+    {
+      "country_name": "Albania",
+      "cost": "25431000000",
+      "earn_per_second": "25431000",
+      "item_id": 78
+    },
+    {
+      "country_name": "Guinea",
+      "cost": "25447000000",
+      "earn_per_second": "25447000",
+      "item_id": 79
+    },
+    {
+      "country_name": "Trinidad and Tobago",
+      "cost": "28365000000",
+      "earn_per_second": "28365000",
+      "item_id": 80
+    },
+    {
+      "country_name": "Bosnia and Herzegovina",
+      "cost": "29078000000",
+      "earn_per_second": "29078000",
+      "item_id": 81
+    },
+    {
+      "country_name": "Zambia",
+      "cost": "29872000000",
+      "earn_per_second": "29872000",
+      "item_id": 82
+    },
+    {
+      "country_name": "Sudan",
+      "cost": "30873000000",
+      "earn_per_second": "30873000",
+      "item_id": 83
+    },
+    {
+      "country_name": "Papua New Guinea",
+      "cost": "31716000000",
+      "earn_per_second": "31716000",
+      "item_id": 84
+    },
+    {
+      "country_name": "Iceland",
+      "cost": "32919000000",
+      "earn_per_second": "32919000",
+      "item_id": 85
+    },
+    {
+      "country_name": "Georgia",
+      "cost": "33191000000",
+      "earn_per_second": "33191000",
+      "item_id": 86
+    },
+    {
+      "country_name": "Senegal",
+      "cost": "33685000000",
+      "earn_per_second": "33685000",
+      "item_id": 87
+    },
+    {
+      "country_name": "Cyprus",
+      "cost": "34790000000",
+      "earn_per_second": "34790000",
+      "item_id": 88
+    },
+    {
+      "country_name": "El Salvador",
+      "cost": "35848000000",
+      "earn_per_second": "35848000",
+      "item_id": 89
+    },
+    {
+      "country_name": "Zimbabwe",
+      "cost": "35919000000",
+      "earn_per_second": "35919000",
+      "item_id": 90
+    },
+    {
+      "country_name": "Honduras",
+      "cost": "36735000000",
+      "earn_per_second": "36735000",
+      "item_id": 91
+    },
+    {
+      "country_name": "Estonia",
+      "cost": "43044000000",
+      "earn_per_second": "43044000",
+      "item_id": 92
+    },
+    {
+      "country_name": "Nepal",
+      "cost": "43673000000",
+      "earn_per_second": "43673000",
+      "item_id": 93
+    },
+    {
+      "country_name": "Libya",
+      "cost": "44812000000",
+      "earn_per_second": "44812000",
+      "item_id": 94
+    },
+    {
+      "country_name": "Paraguay",
+      "cost": "44937000000",
+      "earn_per_second": "44937000",
+      "item_id": 95
+    },
+    {
+      "country_name": "Latvia",
+      "cost": "45521000000",
+      "earn_per_second": "45521000",
+      "item_id": 96
+    },
+    {
+      "country_name": "Bahrain",
+      "cost": "47812000000",
+      "earn_per_second": "47812000",
+      "item_id": 97
+    },
+    {
+      "country_name": "Bolivia",
+      "cost": "48172000000",
+      "earn_per_second": "48172000",
+      "item_id": 98
+    },
+    {
+      "country_name": "Cambodia",
+      "cost": "51159000000",
+      "earn_per_second": "51159000",
+      "item_id": 99
+    },
+    {
+      "country_name": "Tunisia",
+      "cost": "52636000000",
+      "earn_per_second": "52636000",
+      "item_id": 100
+    },
+    {
+      "country_name": "Jordan",
+      "cost": "53305000000",
+      "earn_per_second": "53305000",
+      "item_id": 101
+    },
+    {
+      "country_name": "Cameroon",
+      "cost": "53391000000",
+      "earn_per_second": "53391000",
+      "item_id": 102
+    },
+    {
+      "country_name": "Macau",
+      "cost": "55447000000",
+      "earn_per_second": "55447000",
+      "item_id": 103
+    },
+    {
+      "country_name": "Uganda",
+      "cost": "55587000000",
+      "earn_per_second": "55587000",
+      "item_id": 104
+    },
+    {
+      "country_name": "Myanmar",
+      "cost": "64284000000",
+      "earn_per_second": "64284000",
+      "item_id": 105
+    },
+    {
+      "country_name": "DR Congo",
+      "cost": "72483000000",
+      "earn_per_second": "72483000",
+      "item_id": 106
+    },
+    {
+      "country_name": "Belarus",
+      "cost": "73129000000",
+      "earn_per_second": "73129000",
+      "item_id": 107
+    },
+    {
+      "country_name": "Slovenia",
+      "cost": "73198000000",
+      "earn_per_second": "73198000",
+      "item_id": 108
+    },
+    {
+      "country_name": "Ghana",
+      "cost": "75307000000",
+      "earn_per_second": "75307000",
+      "item_id": 109
+    },
+    {
+      "country_name": "Azerbaijan",
+      "cost": "75649000000",
+      "earn_per_second": "75649000",
+      "item_id": 110
+    },
+    {
+      "country_name": "Tanzania",
+      "cost": "79867000000",
+      "earn_per_second": "79867000",
+      "item_id": 111
+    },
+    {
+      "country_name": "Serbia",
+      "cost": "82550000000",
+      "earn_per_second": "82550000",
+      "item_id": 112
+    },
+    {
+      "country_name": "Uruguay",
+      "cost": "82605000000",
+      "earn_per_second": "82605000",
+      "item_id": 113
+    },
+    {
+      "country_name": "Lithuania",
+      "cost": "82789000000",
+      "earn_per_second": "82789000",
+      "item_id": 114
+    },
+    {
+      "country_name": "Turkmenistan",
+      "cost": "83883000000",
+      "earn_per_second": "83883000",
+      "item_id": 115
+    },
+    {
+      "country_name": "Sri Lanka",
+      "cost": "74846000000",
+      "earn_per_second": "74846000",
+      "item_id": 116
+    },
+    {
+      "country_name": "Ivory Coast",
+      "cost": "86993000000",
+      "earn_per_second": "86993000",
+      "item_id": 117
+    },
+    {
+      "country_name": "Panama",
+      "cost": "87347000000",
+      "earn_per_second": "87347000",
+      "item_id": 118
+    },
+    {
+      "country_name": "Croatia",
+      "cost": "89665000000",
+      "earn_per_second": "89665000",
+      "item_id": 119
+    },
+    {
+      "country_name": "Luxembourg",
+      "cost": "91210000000",
+      "earn_per_second": "91210000",
+      "item_id": 120
+    },
+    {
+      "country_name": "Costa Rica",
+      "cost": "95149000000",
+      "earn_per_second": "95149000",
+      "item_id": 121
+    },
+    {
+      "country_name": "Venezuela",
+      "cost": "106327000000",
+      "earn_per_second": "106327000",
+      "item_id": 122
+    },
+    {
+      "country_name": "Oman",
+      "cost": "110993000000",
+      "earn_per_second": "110993000",
+      "item_id": 123
+    },
+    {
+      "country_name": "Guatemala",
+      "cost": "112369000000",
+      "earn_per_second": "112369000",
+      "item_id": 124
+    },
+    {
+      "country_name": "Angola",
+      "cost": "113286000000",
+      "earn_per_second": "113286000",
+      "item_id": 125
+    },
+    {
+      "country_name": "Kenya",
+      "cost": "116321000000",
+      "earn_per_second": "116321000",
+      "item_id": 126
+    },
+    {
+      "country_name": "Puerto Rico",
+      "cost": "120971000000",
+      "earn_per_second": "120971000",
+      "item_id": 127
+    },
+    {
+      "country_name": "Ecuador",
+      "cost": "121425000000",
+      "earn_per_second": "121425000",
+      "item_id": 128
+    },
+    {
+      "country_name": "Bulgaria",
+      "cost": "123425000000",
+      "earn_per_second": "123425000",
+      "item_id": 129
+    },
+    {
+      "country_name": "Uzbekistan",
+      "cost": "125511000000",
+      "earn_per_second": "125511000",
+      "item_id": 130
+    },
+    {
+      "country_name": "Dominican Republic",
+      "cost": "126238000000",
+      "earn_per_second": "126238000",
+      "item_id": 131
+    },
+    {
+      "country_name": "Slovakia",
+      "cost": "142617000000",
+      "earn_per_second": "142617000",
+      "item_id": 132
+    },
+    {
+      "country_name": "Kuwait",
+      "cost": "161950000000",
+      "earn_per_second": "161950000",
+      "item_id": 133
+    },
+    {
+      "country_name": "Morocco",
+      "cost": "168597000000",
+      "earn_per_second": "168597000",
+      "item_id": 134
+    },
+    {
+      "country_name": "Ukraine",
+      "cost": "189827000000",
+      "earn_per_second": "189827000",
+      "item_id": 135
+    },
+    {
+      "country_name": "Nigeria",
+      "cost": "199720000000",
+      "earn_per_second": "199720000",
+      "item_id": 136
+    },
+    {
+      "country_name": "Ethiopia",
+      "cost": "230031000000",
+      "earn_per_second": "230031000",
+      "item_id": 137
+    },
+    {
+      "country_name": "Qatar",
+      "cost": "240217000000",
+      "earn_per_second": "240217000",
+      "item_id": 138
+    },
+    {
+      "country_name": "New Zealand",
+      "cost": "262924000000",
+      "earn_per_second": "262924000",
+      "item_id": 139
+    },
+    {
+      "country_name": "Algeria",
+      "cost": "264270000000",
+      "earn_per_second": "264270000",
+      "item_id": 140
+    },
+    {
+      "country_name": "Greece",
+      "cost": "265171000000",
+      "earn_per_second": "265171000",
+      "item_id": 141
+    },
+    {
+      "country_name": "Iraq",
+      "cost": "270874000000",
+      "earn_per_second": "270874000",
+      "item_id": 142
+    },
+    {
+      "country_name": "Peru",
+      "cost": "294898000000",
+      "earn_per_second": "294898000",
+      "item_id": 143
+    },
+    {
+      "country_name": "Kazakhstan",
+      "cost": "306629000000",
+      "earn_per_second": "306629000",
+      "item_id": 144
+    },
+    {
+      "country_name": "Hungary",
+      "cost": "312619000000",
+      "earn_per_second": "312619000",
+      "item_id": 145
+    },
+    {
+      "country_name": "Portugal",
+      "cost": "319934000000",
+      "earn_per_second": "319934000",
+      "item_id": 146
+    },
+    {
+      "country_name": "Finland",
+      "cost": "319989000000",
+      "earn_per_second": "319989000",
+      "item_id": 147
+    },
+    {
+      "country_name": "Czech Republic",
+      "cost": "360233000000",
+      "earn_per_second": "360233000",
+      "item_id": 148
+    },
+    {
+      "country_name": "Chile",
+      "cost": "362240000000",
+      "earn_per_second": "362240000",
+      "item_id": 149
+    },
+    {
+      "country_name": "Pakistan",
+      "cost": "374595000000",
+      "earn_per_second": "374595000",
+      "item_id": 150
+    },
+    {
+      "country_name": "Egypt",
+      "cost": "380044000000",
+      "earn_per_second": "380044000",
+      "item_id": 151
+    },
+    {
+      "country_name": "Romania",
+      "cost": "406202000000",
+      "earn_per_second": "406202000",
+      "item_id": 152
+    },
+    {
+      "country_name": "South Africa",
+      "cost": "418046000000",
+      "earn_per_second": "418046000",
+      "item_id": 153
+    },
+    {
+      "country_name": "Colombia",
+      "cost": "419331000000",
+      "earn_per_second": "419331000",
+      "item_id": 154
+    },
+    {
+      "country_name": "Hong Kong",
+      "cost": "422057000000",
+      "earn_per_second": "422057000",
+      "item_id": 155
+    },
+    {
+      "country_name": "Denmark",
+      "cost": "431228000000",
+      "earn_per_second": "431228000",
+      "item_id": 156
+    },
+    {
+      "country_name": "Bangladesh",
+      "cost": "455856000000",
+      "earn_per_second": "455856000",
+      "item_id": 157
+    },
+    {
+      "country_name": "Iran",
+      "cost": "463747000000",
+      "earn_per_second": "463747000",
+      "item_id": 158
+    },
+    {
+      "country_name": "Malaysia",
+      "cost": "488250000000",
+      "earn_per_second": "488250000",
+      "item_id": 159
+    },
+    {
+      "country_name": "Norway",
+      "cost": "503466000000",
+      "earn_per_second": "503466000",
+      "item_id": 160
+    },
+    {
+      "country_name": "Vietnam",
+      "cost": "506426000000",
+      "earn_per_second": "506426000",
+      "item_id": 161
+    },
+    {
+      "country_name": "Philippines",
+      "cost": "507670000000",
+      "earn_per_second": "507670000",
+      "item_id": 162
+    },
+    {
+      "country_name": "Thailand",
+      "cost": "545341000000",
+      "earn_per_second": "545341000",
+      "item_id": 163
+    },
+    {
+      "country_name": "Israel",
+      "cost": "550905000000",
+      "earn_per_second": "550905000",
+      "item_id": 164
+    },
+    {
+      "country_name": "Austria",
+      "cost": "559218000000",
+      "earn_per_second": "559218000",
+      "item_id": 165
+    },
+    {
+      "country_name": "Singapore",
+      "cost": "561725000000",
+      "earn_per_second": "561725000",
+      "item_id": 166
+    },
+    {
+      "country_name": "United Arab Emirates",
+      "cost": "568567000000",
+      "earn_per_second": "568567000",
+      "item_id": 167
+    },
+    {
+      "country_name": "Ireland",
+      "cost": "587225000000",
+      "earn_per_second": "587225000",
+      "item_id": 168
+    },
+    {
+      "country_name": "Argentina",
+      "cost": "604201000000",
+      "earn_per_second": "604201000",
+      "item_id": 169
+    },
+    {
+      "country_name": "Sweden",
+      "cost": "638780000000",
+      "earn_per_second": "638780000",
+      "item_id": 170
+    },
+    {
+      "country_name": "Belgium",
+      "cost": "689364000000",
+      "earn_per_second": "689364000",
+      "item_id": 171
+    },
+    {
+      "country_name": "Taiwan",
+      "cost": "814438000000",
+      "earn_per_second": "814438000",
+      "item_id": 172
+    },
+    {
+      "country_name": "Poland",
+      "cost": "915451000000",
+      "earn_per_second": "915451000",
+      "item_id": 173
+    },
+    {
+      "country_name": "Switzerland",
+      "cost": "999604000000",
+      "earn_per_second": "999604000",
+      "item_id": 174
+    },
+    {
+      "country_name": "Saudi Arabia",
+      "cost": "1136580000000",
+      "earn_per_second": "1136580000",
+      "item_id": 175
+    },
+    {
+      "country_name": "Netherlands",
+      "cost": "1272960000000",
+      "earn_per_second": "1272960000",
+      "item_id": 176
+    },
+    {
+      "country_name": "Turkey",
+      "cost": "1455413000000",
+      "earn_per_second": "1455413000",
+      "item_id": 177
+    },
+    {
+      "country_name": "Indonesia",
+      "cost": "1492618000000",
+      "earn_per_second": "1492618000",
+      "item_id": 178
+    },
+    {
+      "country_name": "Mexico",
+      "cost": "1817818000000",
+      "earn_per_second": "1817818000",
+      "item_id": 179
+    },
+    {
+      "country_name": "Spain",
+      "cost": "1827576000000",
+      "earn_per_second": "1827576000",
+      "item_id": 180
+    },
+    {
+      "country_name": "Australia",
+      "cost": "1881140000000",
+      "earn_per_second": "1881140000",
+      "item_id": 181
+    },
+    {
+      "country_name": "South Korea",
+      "cost": "1947133000000",
+      "earn_per_second": "1947133000",
+      "item_id": 182
+    },
+    {
+      "country_name": "Russia",
+      "cost": "2195708000000",
+      "earn_per_second": "2195708000",
+      "item_id": 183
+    },
+    {
+      "country_name": "Brazil",
+      "cost": "2307162000000",
+      "earn_per_second": "2307162000",
+      "item_id": 184
+    },
+    {
+      "country_name": "Canada",
+      "cost": "2330308000000",
+      "earn_per_second": "2330308000",
+      "item_id": 185
+    },
+    {
+      "country_name": "Italy",
+      "cost": "2459597000000",
+      "earn_per_second": "2459597000",
+      "item_id": 186
+    },
+    {
+      "country_name": "France",
+      "cost": "3283429000000",
+      "earn_per_second": "3283429000",
+      "item_id": 187
+    },
+    {
+      "country_name": "United Kingdom",
+      "cost": "3730261000000",
+      "earn_per_second": "3730261000",
+      "item_id": 188
+    },
+    {
+      "country_name": "India",
+      "cost": "4271922000000",
+      "earn_per_second": "4271922000",
+      "item_id": 189
+    },
+    {
+      "country_name": "Japan",
+      "cost": "4389326000000",
+      "earn_per_second": "4389326000",
+      "item_id": 190
+    },
+    {
+      "country_name": "Germany",
+      "cost": "4921563000000",
+      "earn_per_second": "4921563000",
+      "item_id": 191
+    },
+    {
+      "country_name": "China",
+      "cost": "19534894000000",
+      "earn_per_second": "19534894000",
+      "item_id": 192
+    },
+    {
+      "country_name": "United States",
+      "cost": "30337162000000",
+      "earn_per_second": "30337162000",
+      "item_id": 193
+    }
+  ]
+}

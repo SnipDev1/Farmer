@@ -1,0 +1,36 @@
+{
+  "questions": [
+    {
+      "question": "русский",
+      "answers": "",
+      "correct_answer": "русский"
+    },
+    {
+      "question": "уничтожить",
+      "answers": "",
+      "correct_answer": "уничтожить"
+    },
+    {
+      "question": "украинцы",
+      "answers": "",
+      "correct_answer": "уничтожить"
+    },
+    {
+      "question": "америка",
+      "answers": "",
+      "correct_answer": "сжечь"
+    },
+    {
+      "question": "Россия - великая",
+      "answers": "",
+      "correct_answer": "великая"
+    },
+    {
+      "question": "европа",
+      "answers": "",
+      "correct_answer": "взорвать"
+    }
+
+
+  ]
+}
