@@ -1,0 +1,1 @@
+This is simple and unfinished project, genre is something like clicker. Don't be mad because of the text, which you need to type to gain coins, it is inspired by the test from "Blade Runner", so it is not serious.
